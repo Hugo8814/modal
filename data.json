@@ -6,14 +6,14 @@
     "reviews": [
       {
         "name": "Joanne Kissick-Jones",
-        "pfp": "/src/pfp/jonna.png",
+        "pfp": "jonna.png",
         "rating": 5,
         "time": "9 months ago",
         "text": "I have always received a good massage at the Walfare Massage Centre."
       },
       {
         "name": "Patric Nutton",
-        "pfp": "/src/pfp/patric.png",
+        "pfp": "patric.png",
         "rating": 5,
         "time": "2 months ago",
         "text": "Wonderful! So many tensions released today by Ghislaine an experienced masseuse who analyses and adapts the massage to areas with the tightest muscles and is kind and patient and uses the time well - definitely not rushed. Left the centre feeling sooo relaxed, walking into space..."
@@ -28,7 +28,7 @@
 
       {
         "name": "dan east",
-        "pfp": "/src/pfp/daneast.png",
+        "pfp": "daneast.png",
         "rating": 5,
         "time": "a year ago",
         "text": "best massage  ive had Afterwards, I felt completely refreshed and rejuvenated. I can't wait to book next month and experience this amazing massage again. I highly recommend this spa to anyone looking for a relaxing and rejuvenating experience. It's definitely worth the five-star rating!"
@@ -36,28 +36,28 @@
 
       {
         "name": "Kennes Modesto",
-        "pfp": "/src/pfp/Kennesmodesto.png",
+        "pfp": "Kennesmodesto.png",
         "rating": 5,
         "time": "a year ago",
         "text": "Simply the best massage I have ever had. Gislane I am delighted with your professionalism, your friendliness… much success always! 😍❤️"
       },
       {
         "name": "ketlyn fonseca",
-        "pfp": "/src/pfp/ketlyn.png",
+        "pfp": "ketlyn.png",
         "rating": 5,
         "time": "a year ago",
         "text": "Anyone who knows all the benefits of a good massage session wouldn't trade it for anything in the world. thank you Gislaine for the best massage, i'm feeling wonderful. Great service, very cozy atmosphere, I loved it . I'm already looking forward to my next massage "
       },
       {
         "name": "Colin Hustwayte",
-        "pfp": "/src/pfp/colin.png",
+        "pfp": "colin.png",
         "rating": 5,
         "time": "10 months ago",
         "text": "Great massage very relaxing, looking forward to seeing you again soon."
       },
       {
         "name": "Alice Bentley",
-        "pfp": "/src/pfp/alicebentley.png",
+        "pfp": "alicebentley.png",
         "rating": 5,
         "time": "a year ago",
         "text": "Misha was amazing my massage and facial felt wonderful. Definitely upped their massage style and techniques. I went for a facial and fell a sleep it was that good. My skin is glowing. My skin feels amazing I love Dermolgica and use the range at home. Far better experience than other options for spa treatments in Ashford I've tried them all. I really love this place and feel it's amazing value for money.Keep it up ladies. Such a wonderful place in Ashford. ❤️"
@@ -65,14 +65,14 @@
 
       {
         "name": "Claire Salter",
-        "pfp": "/src/pfp/claire.png",
+        "pfp": "claire.png",
         "rating": 5,
         "time": "5 years ago",
         "text": "Been here twice now for a massage. What an experience, made to feel welcome by the staff who are so friendly, and the massage was wonderful, so relaxing I am most certain I drifted off to another place. Deffinately worth a visit. My next one is already booked."
       },
       {
         "name": "Sarah Wills",
-        "pfp": "/src/pfp/sarahwills.png",
+        "pfp": "sarahwills.png",
         "rating": 5,
         "time": "2 months ago",
         "text": "lovely, totally relaxing experience"
@@ -87,7 +87,7 @@
 
       {
         "name": "running man",
-        "pfp": "/src/pfp/runningman.png",
+        "pfp": "runningman.png",
 
         "rating": 5,
         "time": "5 months ago",
@@ -103,7 +103,7 @@
       },
       {
         "name": "Kev Stone",
-        "pfp": "/src/pfp/kev.png",
+        "pfp": "kev.png",
         "rating": 5,
         "time": "3 months ago",
         "text": "Lovely massage, Not rushed, Great value definitely going again"
@@ -111,14 +111,14 @@
 
       {
         "name": "stephen gregory",
-        "pfp": "/src/pfp/stephen.png",
+        "pfp": "stephen.png",
         "rating": 5,
         "time": "2 years ago",
         "text": "Very friendly and professional. A great massage, so relaxed afterwards. Even though it was cold they were happy to open a window for me during my massage. I have already booked my next massage and will go back on a regular basis. Probably the most relaxing massage I've had in Ashford"
       },
       {
         "name": "Emma Geering",
-        "pfp": "/src/pfp/emma.png",
+        "pfp": "emma.png",
         "rating": 5,
         "time": "a year ago",
         "text": "Incredible pre natal massage. Loved the service, warm beds, comfy towels and pillows. Super impressed ❤️"
@@ -126,28 +126,28 @@
 
       {
         "name": "Sarah Gibbs",
-        "pfp": "/src/pfp/sarah.png",
+        "pfp": "sarah.png",
         "rating": 5,
         "time": "2 years ago",
         "text": "I was gifted a facial and massage at Welfare Massage. I’m not usually a big fan as I am sensitive skinned and usually leave looking like a tomato. But I have to say this was the most relaxing experience. I’m sure I drifted off to sleep at one point. It was really impressed and would 100% recommend, I will be back."
       },
       {
         "name": "Katie Dowling",
-        "pfp": "/src/pfp/katie.png",
+        "pfp": "katie.png",
         "rating": 5,
         "time": "a year ago",
         "text": "I love this place. Amazing staff and massage"
       },
       {
         "name": "Jodee Furlong",
-        "pfp": "/src/pfp/jodee.png",
+        "pfp": "jodee.png",
         "rating": 5,
         "time": "2 years ago",
         "text": "So so relaxing, went for a massage here today and I've never felt so relaxed. Will definitely be booking again soon. And the prices are so reasonable too."
       },
       {
         "name": "Greg P",
-        "pfp": "/src/pfp/greg.png",
+        "pfp": "greg.png",
         "rating": 5,
         "time": "6 years ago",
         "text": "Excellent addition to a developing town...... Gislaine, Melissa and Gracie keep up the good work. I'll see you in September. Feeling totally energised for the day ahead and looking forwards to my next visit. Well worth the value for money but the service is definately 6*!"
